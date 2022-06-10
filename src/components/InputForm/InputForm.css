@@ -1,0 +1,10 @@
+.h-6 {
+  width: 20px;
+  height: 20px;
+}
+.flex {
+  display: flex;
+}
+li {
+  list-style-type: none;
+}
